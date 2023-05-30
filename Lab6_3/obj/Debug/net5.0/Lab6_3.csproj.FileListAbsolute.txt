@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\Lab6_3.exe
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\Lab6_3.deps.json
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\Lab6_3.runtimeconfig.json
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\Lab6_3.runtimeconfig.dev.json
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\Lab6_3.dll
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\ref\Lab6_3.dll
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\bin\Debug\net5.0\Lab6_3.pdb
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.AssemblyInfo.cs
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.dll
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\ref\Lab6_3.dll
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.pdb
+C:\Users\HP\Documents\kpi\PIS\Lab6_PIS\Lab6_3\obj\Debug\net5.0\Lab6_3.genruntimeconfig.cache

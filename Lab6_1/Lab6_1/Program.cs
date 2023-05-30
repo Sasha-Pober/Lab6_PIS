@@ -19,6 +19,7 @@ namespace Lab6_1
             var request = new RestRequest(url,Method.Get);
             var response = client.Execute(request);
             JObject obj = JObject.Parse(response.Content);
+            Console.WriteLine(response.Content);
             Console.WriteLine($"Latitude: {obj["latitude"]}\n" +
                 $"Longitude: {obj["longitude"]}\nTemperature: {obj["current_weather"]["temperature"]}*C\n" +
                 $"Time: {DateTime.Parse(obj["current_weather"]["time"].ToString())}");
